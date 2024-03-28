@@ -11,3 +11,6 @@
 Join the channel to see more videos like this. [Kiran Rock](https://github.com/viswakiran16)
 
 ![halloween](/preview.png)
+
+
+Deployed Link or preview - https://viswakiran16.github.io/Slashmark_Task-1-Landing-Page/
